@@ -52,7 +52,7 @@ public class Compress {
         ReadImg img = new ReadImg();
         int[][] matrix;
         matrix = img
-                .readImage("D:\\eng_marwan\\FifthTerm\\Information Theory and Data Compression\\Assignment3\\1.jpg");
+                .readImage("C:\\");//path image 
 
         Scanner input = new Scanner(System.in);
         System.out.println("Enter Height Vector");
