@@ -12,7 +12,7 @@ Compress Image Using 2d Vectore Quantization algorithm(Using Java)
 **Example**
 
 Input :
-![Uploading 1.jpg…]()
+(https://github.com/marwana2001/VectorQuantization/blob/46d4e1f912c82ed0853de0d100af5cb4b44f2f97/1.jpg)
 
 Size: 559 KB
 
