@@ -17,6 +17,6 @@ Size: 559 KB
 
 OutPut:
 
-![Uploading Compressed.jpg…]()
+![](Compressed.jpg)
 
 Size:291KB
