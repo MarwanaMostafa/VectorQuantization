@@ -1,7 +1,7 @@
 # Vector-Quantization-
 Compress Image Using 2d Vectore Quantization algorithm(Using Java)
 
-# How to Use
+# How to Use :
 
   1-Enter Path img which you need compress 
   
@@ -9,7 +9,7 @@ Compress Image Using 2d Vectore Quantization algorithm(Using Java)
   
   3-enter code book
 
-# Example
+# Example :
 
 #### **Input** : 
 ![](1.jpg)
