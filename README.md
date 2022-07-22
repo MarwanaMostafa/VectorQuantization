@@ -11,12 +11,12 @@ Compress Image Using 2d Vectore Quantization algorithm(Using Java)
 
 # Example
 
-##Input :
+## Input :
 ![](1.jpg)
-##Size: 559 KB
+## Size: 559 KB
 
-##OutPut:
+## OutPut:
 
 ![](Compressed.jpg)
 
-##Size:291KB
+## Size:291KB
