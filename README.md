@@ -11,7 +11,7 @@ Compress Image Using 2d Vectore Quantization algorithm(Using Java)
 
 # Example
 
- <sup> **Input** : </sup >
+ <sub> **Input** : </sub>
 ![](1.jpg)
 **Size: 559 KB**
 
