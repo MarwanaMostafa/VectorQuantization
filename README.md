@@ -9,7 +9,7 @@ Compress Image Using 2d Vectore Quantization algorithm(Using Java)
   
   3-enter code book
 
-**Example**
+# Example
 
 Input :
 ![](1.jpg)
